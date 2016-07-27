@@ -1,0 +1,53 @@
+body {
+  background: #EBEBEB;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat';
+  color: #DD5555;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+  color: #CCCCCC;
+}
+
+a:hover {
+  color: #DF5452;
+}
+
+.card {
+  width: 500px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  border-radius: 5px;
+  box-shadow: 2px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.marging_top {
+  padding: 20px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.card-white {
+  background: white;
+  padding: 3px;
+  border: 1px solid lightgrey;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
